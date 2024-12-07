@@ -1,3 +1,6 @@
 [submodule "FunClip"]
 	path = FunClip
 	url = https://github.com/lingjie2098/FunClip.git
+[submodule "pyvideotrans"]
+	path = pyvideotrans
+	url = https://github.com/lingjie2098/pyvideotrans.git

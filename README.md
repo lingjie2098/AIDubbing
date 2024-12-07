@@ -2,7 +2,7 @@
 A tool set for AI dubbing.
 
 ```bash
-git clone https://github.com/lingjie2098/FunClip.git
+git clone https://github.com/lingjie2098/AIDubbing.git
 cd AIDubbing
 
 # all submodules
@@ -20,4 +20,10 @@ git submodule update --remote --recursive
 ## ASR
 ### FunASR
 生成中文字幕文件（\*.srt）。
-### FunClip🔥
+#### FunClip🔥
+#### pyvideotrans
+## TTS
+### CosyVoice
+#### pyvideotrans🔥
+### F5-TTS
+#### pyvideotrans🔥
