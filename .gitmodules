@@ -1,6 +1,7 @@
 [submodule "CosyVoice"]
 	path = CosyVoice
 	url = https://github.com/lingjie2098/CosyVoice.git
+	branch = for_macOS
 [submodule "F5-TTS"]
 	path = F5-TTS
 	url = https://github.com/lingjie2098/F5-TTS.git
