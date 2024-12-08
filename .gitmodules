@@ -7,6 +7,7 @@
 [submodule "FunClip"]
 	path = FunClip
 	url = https://github.com/lingjie2098/FunClip.git
+	branch = for_macOS
 [submodule "pyvideotrans"]
 	path = pyvideotrans
 	url = https://github.com/lingjie2098/pyvideotrans.git
