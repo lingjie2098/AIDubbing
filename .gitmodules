@@ -5,6 +5,7 @@
 [submodule "F5-TTS"]
 	path = F5-TTS
 	url = https://github.com/lingjie2098/F5-TTS.git
+	branch = for_macOS
 [submodule "FunClip"]
 	path = FunClip
 	url = https://github.com/lingjie2098/FunClip.git
