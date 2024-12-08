@@ -11,3 +11,4 @@
 [submodule "pyvideotrans"]
 	path = pyvideotrans
 	url = https://github.com/lingjie2098/pyvideotrans.git
+	branch = for_macOS
